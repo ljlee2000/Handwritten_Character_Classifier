@@ -65,6 +65,7 @@ python korean_handwriting_classifier.py
 
 ```
 T:C | P:C     T:4 | P:4     T:8 | P:8     ...
+![Figure_1](https://github.com/user-attachments/assets/96f5df91-9b0a-4d39-9ab4-ac2199592b2a)
 ```
 
 이미지를 예측한 결과가 실제 라벨과 얼마나 잘 일치하는지를 시각적으로 보여줍니다.
