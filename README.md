@@ -1,10 +1,3 @@
-좋습니다! GitHub에 업로드할 때 사용할 수 있는 **`README.md` 템플릿**을 아래에 정리해드릴게요.
-이 README는 프로젝트 소개, 실행 방법, 폴더 구조, 예시 이미지 시각화 등을 모두 담고 있어 **공개 저장소용으로도 충분히 깔끔**하게 보입니다.
-
----
-
-## 📄 `README.md` 예시
-
 ```markdown
 # 🖋️ 손글씨 문자 분류기 (Handwritten Character Classifier)
 
